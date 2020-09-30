@@ -53,9 +53,6 @@ E;
 
     echo "<br>Nazwa zmiennej \$city, wartość: $city";
 
-
-
-
     ?>
 
   </body>
